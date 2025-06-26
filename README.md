@@ -39,14 +39,11 @@ Shows customer segmentation, churn rate by demographics, payment methods, tenure
 
 Displays customers predicted to churn using the trained model, segmented by age group, contract type, and more.
 
-> _Save your dashboard screenshots as `churn_dashboard.png` and `predicted_churners.png` in a folder named `images/`._
-
 ---
 
 ## ⚙️ Machine Learning Highlights
 
 - Model: **RandomForestClassifier** (`scikit-learn`)
-- Trained on 80/20 split using encoded features
 - Target variable: `Customer_Status` (Churned / Stayed)
 - Features selected based on domain knowledge and importance analysis
 - Final output: **369 predicted churners**, exported to CSV and visualized in Power BI
