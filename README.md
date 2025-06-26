@@ -37,7 +37,7 @@ Shows customer segmentation, churn rate by demographics, payment methods, tenure
 
 ![Churn Prediction Dashboard](images/predicted_churners.png)
 
-Displays customers predicted to churn using the trained machine learning model, segmented by age group, contract type, and more.
+Displays customers predicted to churn using the trained model, segmented by age group, contract type, and more.
 
 > _Save your dashboard screenshots as `churn_dashboard.png` and `predicted_churners.png` in a folder named `images/`._
 
