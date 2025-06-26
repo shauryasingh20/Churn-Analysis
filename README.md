@@ -1,4 +1,4 @@
-# Telecom Churn Analysis & Prediction 📊🧠
+# Telecom Churn Analysis & Prediction 📊
 
 An end-to-end analytics project to explore customer churn in the telecom sector, visualize trends, and predict future churners using machine learning.
 
@@ -47,5 +47,3 @@ Displays customers predicted to churn using the trained model, segmented by age 
 - Target variable: `Customer_Status` (Churned / Stayed)
 - Features selected based on domain knowledge and importance analysis
 - Final output: **369 predicted churners**, exported to CSV and visualized in Power BI
-
----
